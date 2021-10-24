@@ -19,7 +19,7 @@ exports_files(["LICENSE"])
 # ZLIB configuration
 ################################################################################
 
-ZLIB_DEPS = ["@zlib//:zlib"]
+ZLIB_DEPS = ["@zlib_archive//:zlib"]
 
 ################################################################################
 # Protobuf Runtime Library
